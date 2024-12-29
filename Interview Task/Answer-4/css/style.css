@@ -1,0 +1,25 @@
+/* ====================================================== Common CSS Start ========================================================== */
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+
+}
+th{
+    text-align: center;
+    text-transform: capitalize;
+ 
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+  }
+/* ====================================================== Common CSS End ====================================================== */
+
+.main:first-child{
+    margin-top: 2px;
+}
+.main{
+    margin: 30px 0;
+}
